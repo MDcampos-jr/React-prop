@@ -1,0 +1,30 @@
+{
+  "name": "atividade",
+  "version": "1.0.0",
+  "description": "atividade aula pw2",
+  "homepage": "https://github.com/Peixinss/PW2#readme",
+  "bugs": {
+    "url": "https://github.com/Peixinss/PW2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peixinss/PW2.git"
+  },
+  "author": "Renan",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "bootstrap": "^5.3.8",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "vite": "^8.2.0"
+  }
+}
