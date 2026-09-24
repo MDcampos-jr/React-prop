@@ -2,13 +2,13 @@
   "name": "atividade",
   "version": "1.0.0",
   "description": "atividade aula pw2",
-  "homepage": "https://github.com/Peixinss/PW2#readme",
+  "homepage": "https://github.com/MDcampos-jr/React-prop.git",
   "bugs": {
-    "url": "https://github.com/Peixinss/PW2/issues"
+    "url": "https://github.com/MDcampos-jr/React-prop.git"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Peixinss/PW2.git"
+    "url": "git+https://github.com/MDcampos-jr/React-prop.git"
   },
   "author": "Marcio",
   "type": "module",
