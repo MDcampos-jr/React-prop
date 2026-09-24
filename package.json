@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Peixinss/PW2.git"
   },
-  "author": "Renan",
+  "author": "Marcio",
   "type": "module",
   "main": "index.js",
   "scripts": {
